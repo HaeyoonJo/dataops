@@ -1,6 +1,12 @@
 # dataops
 a repository gathering information about what's DataOps or MLOps in order to progress my personal development
 
+- [What is DataOps in Korean article by CIOKorea](http://www.ciokorea.com/news/36372)
+
+- [DataOps position and work in team in Ko](https://nch1234.tistory.com/1102)
+
+- [Tech report - DataOps in Ko](https://m.etnews.com/20200302000131)
+
 - [MLOps description by Google](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) 
 
 - [MLOps by Wiki](https://en.wikipedia.org/wiki/MLOps)
