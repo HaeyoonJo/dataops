@@ -3,7 +3,11 @@ a repository gathering information about what's DataOps or MLOps in order to pro
 
 - [*] [What is DataOps in Korean article by CIOKorea](http://www.ciokorea.com/news/36372)
 
-- [DataOps position and work in team in Ko](https://nch1234.tistory.com/1102)
+- [*][DataOps position and how to cooperate](https://www.itnews.com/article/3237694/analytics/what-is-dataops-data-operations-analytics.html)
+
+   - [*] Finalize this blog on Note
+
+   - [ ] Finalize it on Evernote
 
 - [Tech report - DataOps in Ko](https://m.etnews.com/20200302000131)
 
