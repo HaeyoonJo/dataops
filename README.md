@@ -1,7 +1,7 @@
 # dataops
 a repository gathering information about what's DataOps or MLOps in order to progress my personal development
 
-- [What is DataOps in Korean article by CIOKorea](http://www.ciokorea.com/news/36372)
+- [*] [What is DataOps in Korean article by CIOKorea](http://www.ciokorea.com/news/36372)
 
 - [DataOps position and work in team in Ko](https://nch1234.tistory.com/1102)
 
